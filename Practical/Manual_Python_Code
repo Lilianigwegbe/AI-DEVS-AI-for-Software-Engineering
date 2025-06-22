@@ -1,4 +1,4 @@
-#Given a list belowe:
+#Given a list below:
 #Data that makes up the Dictonary
 data = [
     {"name": "Alice", "age": 30},
