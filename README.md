@@ -27,7 +27,7 @@ This project demonstrates the application of AI in software engineering by combi
 
 ---
 
-## 🔍 Project Breakdown
+##  Project Breakdown
 
 ### Part 1: Theoretical Analysis
 - **Q1:** AI code generation efficiency & limitations
