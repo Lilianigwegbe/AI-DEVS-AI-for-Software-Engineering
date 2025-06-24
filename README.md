@@ -1,4 +1,4 @@
-# AI for Software Engineering – Week 4 Assignment  
+# AI in Software Engineering – Week 4 Assignment  
 **Theme:** Building Intelligent Software Solutions  
 ---
 
