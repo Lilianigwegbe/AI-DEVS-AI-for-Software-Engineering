@@ -38,7 +38,7 @@ Discussion on dataset bias, fairness, and tools like IBM AI Fairness 360.
 
 ---
 ## Collaboration:
-This assignment was completed by a group of five members. You can find more details of the the group members and their contributions at team/contributions.md.
+This assignment was completed by a group of five members. You can find more details of the group members and their contributions at team/contributions.md.
 
 ##  How to Run
 
