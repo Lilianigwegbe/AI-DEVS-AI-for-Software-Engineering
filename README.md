@@ -8,16 +8,6 @@ This project demonstrates the application of AI in software engineering by combi
 
 ---
 
-## Team Members
-
-- Contributor 1: Theoretical analysis, case study, GitHub setup
-- Contributor 2: Code completion with AI (Task 1)
-- Contributor 3: Automated testing with Testim/Selenium (Task 2)
-- Contributor 4: Predictive analytics and model training (Task 3)
-- Contributor 5: Ethical reflection, innovation proposal, video presentation
-
----
-
 ##  Tools & Technologies
 
 - **AI Tools**: GitHub Copilot, Testim.io
@@ -47,6 +37,8 @@ This project demonstrates the application of AI in software engineering by combi
 Discussion on dataset bias, fairness, and tools like IBM AI Fairness 360.
 
 ---
+## Collaboration:
+This assignment was completed by a group of five members. You can find more details of the the group members and their contributions at team/contributions.md.
 
 ##  How to Run
 
