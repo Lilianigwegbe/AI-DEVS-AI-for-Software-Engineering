@@ -1,5 +1,7 @@
 AI for Software Engineering Assignment
+
 Description Week 4 Assignment: AI in Software Engineering
+
 Theme: "Building Intelligent Software Solutions" 💻🤖 Objective
 
 This assignment evaluates your understanding of AI applications in software engineering through theoretical analysis, practical implementation, and ethical reflection. You will demonstrate how AI can automate tasks, enhance decision-making, and address challenges in software development.
